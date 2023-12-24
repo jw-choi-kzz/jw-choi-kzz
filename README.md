@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E6CC54&height=250&section=header&text=Choi Jiwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=E6CC54&height=250&section=header&text=ChoiJiwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)<br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
