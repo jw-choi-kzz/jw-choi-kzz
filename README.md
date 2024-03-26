@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E6CC54&height=250&section=header&text=Choi&nbsp;Jiwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=004FA2&height=250&section=header&text=Choi&nbsp;Jiwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)<br>
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 # Stack
