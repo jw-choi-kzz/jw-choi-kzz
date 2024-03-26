@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Choi%20Jiwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&bg_color=0:004598,100:3C7AA0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Choi%20Jiwon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&bg_color=0:004598,100:3C7AA0)
 
 
 # Stack
